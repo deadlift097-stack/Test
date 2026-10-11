@@ -1,0 +1,10 @@
+{
+  "type": "preload-native",
+  "name": "BetterHitreg",
+  "author": "Jass (original Java mod) - Bedrock port",
+  "version": "0.1.0",
+  "entry": "libBetterHitreg.so",
+  "minecraft_versions": [1.26.52.3],
+  "overwrite_files": [],
+  "overwrite_folders": []
+}
